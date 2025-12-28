@@ -118,7 +118,3 @@ This ensures you always receive a valid `reviews.json` file for evaluation purpo
 ## 📄 License
 
 This project is for educational purposes.
-
-```
-
-```
