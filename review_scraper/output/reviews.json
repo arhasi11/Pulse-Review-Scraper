@@ -1,0 +1,62 @@
+[
+    {
+        "source": "G2",
+        "title": "Great collaboration tool",
+        "review": "Slack has improved our team comms significantly.",
+        "date": "2023-05-15",
+        "additional_info": {
+            "author": "User A",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    },
+    {
+        "source": "G2",
+        "title": "Expensive but worth it",
+        "review": "Pricing is high but features are unmatched.",
+        "date": "2023-08-20",
+        "additional_info": {
+            "author": "User B",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    },
+    {
+        "source": "Capterra",
+        "title": "Essential for remote work",
+        "review": "Can't imagine working without it.",
+        "date": "2023-06-10",
+        "additional_info": {
+            "rating": "5/5",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    },
+    {
+        "source": "Capterra",
+        "title": "Good UI",
+        "review": "Very intuitive interface.",
+        "date": "2023-09-01",
+        "additional_info": {
+            "rating": "4/5",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    },
+    {
+        "source": "TrustRadius",
+        "title": "Trustworthy platform",
+        "review": "Secure and scalable for enterprise.",
+        "date": "2023-04-12",
+        "additional_info": {
+            "company": "slack",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    },
+    {
+        "source": "TrustRadius",
+        "title": "Solid performance",
+        "review": "Uptime is great, rarely have issues.",
+        "date": "2023-11-20",
+        "additional_info": {
+            "company": "slack",
+            "note": "Sample data (Scraping Blocked)"
+        }
+    }
+]
